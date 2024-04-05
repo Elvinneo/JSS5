@@ -30,7 +30,7 @@
 //     bos.push(Math.trunc(data))
 // }
 // let net=`${bos[0]} il ${bos[1]} ay ${bos[2]} Gün ${bos[3]} saat  ${bos[4]} dəqiqə ${bos[5]} saniyə`
-// console.log(`%c${net}`, `color:${reng};`);
+console.log(`%c${net}`, `color:${reng};`);
 
 // },1000)
 
